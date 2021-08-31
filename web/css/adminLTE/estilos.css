@@ -1,0 +1,9 @@
+.login-page {
+    background: rgba(227, 188, 0, .5) !important;
+}
+
+.login-box {
+    background-color: rgba(0, 100, 214, .5);
+    border: 1px solid rgba(227, 188, 0, .5);
+    
+}
